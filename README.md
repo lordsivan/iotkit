@@ -10,3 +10,6 @@ Step3: <br>
   Cd to the component directory <br>
   npm link. <br>
   Go to root folder and run <npm link #componenetName# >  <br>
+Step 4:
+  Webpack based starter project
+   https://www.npmjs.com/package/angular2-webpack-starter
